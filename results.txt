@@ -1,0 +1,131 @@
+SZ
+LGBM:
+Mean mse = 17.88314
+Mean mae = 2.19650
+Mean r2 = 0.82221
+Mean mape = 0.30206
+NN:
+Mean mse = 48.79516
+Mean mae = 4.59169
+Mean r2 = 0.51875
+Mean mape = 0.63108
+LGBM(with new features):
+Mean mse = 5.22350
+Mean mae = 1.10311
+Mean r2 = 0.94856
+Mean mape = 0.14998
+NN(with new features):
+Mean mse = 19.99068
+Mean mae = 3.21140
+Mean r2 = 0.77164
+Mean mape = 0.45527
+
+SH
+LGBM:
+Mean mse = 5.11201
+Mean mae = 1.00377
+Mean r2 = 0.72181
+Mean mape = 0.39689
+NN:
+Mean mse = 10.43014
+Mean mae = 2.18119
+Mean r2 = 0.44242
+Mean mape = 0.85609
+LGBM(with new features):
+Mean mse = 1.36030
+Mean mae = 0.56831
+Mean r2 = 0.92634
+Mean mape = 0.22400
+NN(with new features):
+Mean mse = 3.43132
+Mean mae = 1.33928
+Mean r2 = 0.81749
+Mean mape = 0.52479
+
+CD
+LGBM:
+day 95 - mse 4.46216
+day 95 - mae 0.91925
+day 95 - r2 0.54283
+day 95 - mape 0.45278
+day 102 - mse 3.36496
+day 102 - mae 0.78807
+day 102 - r2 0.64314
+day 102 - mape 0.44008
+day 109 - mse 3.01590
+day 109 - mae 0.73532
+day 109 - r2 0.71374
+day 109 - mape 0.40813
+day 116 - mse 1.57858
+day 116 - mae 0.53500
+day 116 - r2 0.72648
+day 116 - mape 0.42642
+Mean mse = 3.10540
+Mean mae = 0.74441
+Mean r2 = 0.65655
+Mean mape = 0.43185
+LGBM(with new features):
+day 95 - mse 0.80761
+day 95 - mae 0.43702
+day 95 - r2 0.91726
+day 95 - mape 0.21525
+day 102 - mse 1.02382
+day 102 - mae 0.39641
+day 102 - r2 0.89142
+day 102 - mape 0.22136
+day 109 - mse 0.51000
+day 109 - mae 0.32203
+day 109 - r2 0.95159
+day 109 - mape 0.17874
+day 116 - mse 0.40909
+day 116 - mae 0.25023
+day 116 - r2 0.92912
+day 116 - mape 0.19944
+Mean mse = 0.68763
+Mean mae = 0.35142
+Mean r2 = 0.92235
+Mean mape = 0.20370
+
+TAIYUAN
+LGBM:
+day 95 - mse 2.23170
+day 95 - mae 0.64211
+day 95 - r2 0.78630
+day 95 - mape 0.39277
+day 102 - mse 3.13541
+day 102 - mae 0.68544
+day 102 - r2 0.74730
+day 102 - mape 0.41292
+day 109 - mse 2.73069
+day 109 - mae 0.63237
+day 109 - r2 0.76722
+day 109 - mape 0.38849
+day 116 - mse 5.58070
+day 116 - mae 0.71292
+day 116 - r2 0.56581
+day 116 - mape 0.51351
+Mean mse = 3.41963
+Mean mae = 0.66821
+Mean r2 = 0.71666
+Mean mape = 0.42692
+LGBM(with new features):
+day 95 - mse 0.43605
+day 95 - mae 0.28884
+day 95 - r2 0.95825
+day 95 - mape 0.17668
+day 102 - mse 0.63767
+day 102 - mae 0.32769
+day 102 - r2 0.94861
+day 102 - mape 0.19741
+day 109 - mse 0.44517
+day 109 - mae 0.27053
+day 109 - r2 0.96205
+day 109 - mape 0.16620
+day 116 - mse 0.68539
+day 116 - mae 0.26149
+day 116 - r2 0.94668
+day 116 - mape 0.18835
+Mean mse = 0.55107
+Mean mae = 0.28714
+Mean r2 = 0.95389
+Mean mape = 0.18216
